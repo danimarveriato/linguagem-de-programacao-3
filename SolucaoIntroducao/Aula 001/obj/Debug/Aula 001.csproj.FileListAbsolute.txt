@@ -1,0 +1,11 @@
+C:\Users\dveriato\source\repos\Aula 001\Aula 001\bin\Debug\Aula 001.exe.config
+C:\Users\dveriato\source\repos\Aula 001\Aula 001\bin\Debug\Aula 001.exe
+C:\Users\dveriato\source\repos\Aula 001\Aula 001\bin\Debug\Aula 001.pdb
+C:\Users\dveriato\source\repos\Aula 001\Aula 001\obj\Debug\Aula 001.csproj.AssemblyReference.cache
+C:\Users\dveriato\source\repos\Aula 001\Aula 001\obj\Debug\Aula_001.Properties.Resources.resources
+C:\Users\dveriato\source\repos\Aula 001\Aula 001\obj\Debug\Aula 001.csproj.GenerateResource.cache
+C:\Users\dveriato\source\repos\Aula 001\Aula 001\obj\Debug\Aula 001.csproj.CoreCompileInputs.cache
+C:\Users\dveriato\source\repos\Aula 001\Aula 001\obj\Debug\Aula 001.exe
+C:\Users\dveriato\source\repos\Aula 001\Aula 001\obj\Debug\Aula 001.pdb
+C:\Users\dveriato\source\repos\Aula 001\Aula 001\obj\Debug\Aula_001.FrmInicial.resources
+C:\Users\dveriato\source\repos\Aula 001\Aula 001\obj\Debug\Aula_001.FrmCadCli.resources

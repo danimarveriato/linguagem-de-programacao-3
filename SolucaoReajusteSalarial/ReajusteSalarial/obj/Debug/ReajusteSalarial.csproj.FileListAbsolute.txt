@@ -1,0 +1,10 @@
+C:\Users\dveriato\Documents\Visual Studio 2019\Projects\ReajusteSalarial\ReajusteSalarial\bin\Debug\ReajusteSalarial.exe.config
+C:\Users\dveriato\Documents\Visual Studio 2019\Projects\ReajusteSalarial\ReajusteSalarial\bin\Debug\ReajusteSalarial.exe
+C:\Users\dveriato\Documents\Visual Studio 2019\Projects\ReajusteSalarial\ReajusteSalarial\bin\Debug\ReajusteSalarial.pdb
+C:\Users\dveriato\Documents\Visual Studio 2019\Projects\ReajusteSalarial\ReajusteSalarial\obj\Debug\ReajusteSalarial.csproj.AssemblyReference.cache
+C:\Users\dveriato\Documents\Visual Studio 2019\Projects\ReajusteSalarial\ReajusteSalarial\obj\Debug\ReajusteSalarial.Form1.resources
+C:\Users\dveriato\Documents\Visual Studio 2019\Projects\ReajusteSalarial\ReajusteSalarial\obj\Debug\ReajusteSalarial.Properties.Resources.resources
+C:\Users\dveriato\Documents\Visual Studio 2019\Projects\ReajusteSalarial\ReajusteSalarial\obj\Debug\ReajusteSalarial.csproj.GenerateResource.cache
+C:\Users\dveriato\Documents\Visual Studio 2019\Projects\ReajusteSalarial\ReajusteSalarial\obj\Debug\ReajusteSalarial.csproj.CoreCompileInputs.cache
+C:\Users\dveriato\Documents\Visual Studio 2019\Projects\ReajusteSalarial\ReajusteSalarial\obj\Debug\ReajusteSalarial.exe
+C:\Users\dveriato\Documents\Visual Studio 2019\Projects\ReajusteSalarial\ReajusteSalarial\obj\Debug\ReajusteSalarial.pdb
