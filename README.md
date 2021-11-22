@@ -1,4 +1,4 @@
-# linguagem-de-programacao-3
+# Linguagem de Programação III
 
 Repositório com os códigos das implementações realizadas nas aulas da disciplina Linguagem de Programação III do curso de Ciência da Computação do IFRS - Campus Ibirubá.
 
